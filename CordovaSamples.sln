@@ -1,15 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22823.1
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "BasicSample", "BasicSample\BasicSample.jsproj", "{30BF3CCE-05D1-4CF1-9946-5AF953EC9477}"
 EndProject
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "AngularSample", "AngularSample\AngularSample.jsproj", "{1B92468B-CA89-4B60-867E-72438E45A83C}"
 EndProject
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "AngularServices", "AngularResources\AngularServices.jsproj", "{1A77B37B-97B0-47CA-8C92-ABCD4A312D54}"
-EndProject
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "CordovaWindows10", "CordovaWindows10\CordovaWindows10.jsproj", "{47885E88-0E9D-4A92-9414-29A42683EFB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -175,54 +173,6 @@ Global
 		{1A77B37B-97B0-47CA-8C92-ABCD4A312D54}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
 		{1A77B37B-97B0-47CA-8C92-ABCD4A312D54}.Release|Windows-x86.Build.0 = Release|Windows-x86
 		{1A77B37B-97B0-47CA-8C92-ABCD4A312D54}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Android.ActiveCfg = Debug|Android
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Android.Build.0 = Debug|Android
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Android.Deploy.0 = Debug|Android
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|iOS.ActiveCfg = Debug|iOS
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|iOS.Build.0 = Debug|iOS
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|iOS.Deploy.0 = Debug|iOS
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows Phone (Universal).ActiveCfg = Debug|Windows Phone (Universal)
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows Phone (Universal).Build.0 = Debug|Windows Phone (Universal)
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows Phone (Universal).Deploy.0 = Debug|Windows Phone (Universal)
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows Phone 8.ActiveCfg = Debug|Windows Phone 8
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows Phone 8.Build.0 = Debug|Windows Phone 8
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows Phone 8.Deploy.0 = Debug|Windows Phone 8
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-AnyCPU.ActiveCfg = Debug|Windows-AnyCPU
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-AnyCPU.Build.0 = Debug|Windows-AnyCPU
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-AnyCPU.Deploy.0 = Debug|Windows-AnyCPU
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Android.ActiveCfg = Release|Android
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Android.Build.0 = Release|Android
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Android.Deploy.0 = Release|Android
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|iOS.ActiveCfg = Release|iOS
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|iOS.Build.0 = Release|iOS
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|iOS.Deploy.0 = Release|iOS
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows Phone (Universal).ActiveCfg = Release|Windows Phone (Universal)
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows Phone (Universal).Build.0 = Release|Windows Phone (Universal)
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows Phone (Universal).Deploy.0 = Release|Windows Phone (Universal)
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows Phone 8.ActiveCfg = Release|Windows Phone 8
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows Phone 8.Build.0 = Release|Windows Phone 8
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows Phone 8.Deploy.0 = Release|Windows Phone 8
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-AnyCPU.ActiveCfg = Release|Windows-AnyCPU
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-AnyCPU.Build.0 = Release|Windows-AnyCPU
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-AnyCPU.Deploy.0 = Release|Windows-AnyCPU
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-x64.Build.0 = Release|Windows-x64
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-x86.Build.0 = Release|Windows-x86
-		{47885E88-0E9D-4A92-9414-29A42683EFB0}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

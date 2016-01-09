@@ -7,8 +7,11 @@
         "files": {}
     },
     "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "BlankCordovaApp1"
+        },
         "org.apache.cordova.dialogs": {
-            "PACKAGE_NAME": "BasicSample"
+            "PACKAGE_NAME": "BlankCordovaApp1"
         }
     },
     "dependent_plugins": {}
