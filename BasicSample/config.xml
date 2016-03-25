@@ -109,4 +109,6 @@
   <preference name="InAppBrowserStorageEnabled" value="True" />
   <preference name="SuppressesIncrementalRendering" value="True" />
   <preference name="Fullscreen" value="True" />
+  <plugin name="org.apache.cordova.dialogs" version="0.3.0" />
+  <plugin name="cordova-plugin-geolocation" version="2.1.0" />
 </widget>

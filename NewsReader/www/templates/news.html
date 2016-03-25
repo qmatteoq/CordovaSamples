@@ -1,0 +1,13 @@
+﻿<ion-view view-title="News">
+    <ion-content>
+        <h1>{{error}}</h1>
+        <ion-list>
+            <ion-item ng-repeat="item in posts" href="#/app/news/{{item.Id}}">
+                {{item.Title}}
+            </ion-item>
+        </ion-list>
+        <br />
+        <br />
+        <a class="button button-outline button-dark" ng-click="getNews()">Refresh news</a>
+    </ion-content>
+</ion-view>

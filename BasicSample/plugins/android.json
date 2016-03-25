@@ -27,6 +27,9 @@
         },
         "org.apache.cordova.dialogs": {
             "PACKAGE_NAME": "io.cordova.myapp8da41d"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "io.cordova.myapp8da41d"
         }
     },
     "dependent_plugins": {}
